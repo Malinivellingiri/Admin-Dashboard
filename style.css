@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color:light blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dash{
+    background-color: beige;
+    display: flex;
+    margin: 67;
+    height: 100vb;
+    box-shadow: 3px;
+}
+
+.sidebar{
+    background-color: black;
+    color: white;
+    width: 25%;
+    box-shadow: 3px;
+    font-size: large;
+}
